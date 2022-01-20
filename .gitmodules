@@ -1,0 +1,18 @@
+[submodule "atx040-bootloader"]
+	path = atx040-bootloader
+	url = ../atx040-bootloader.git
+[submodule "atx040-soc"]
+	path = atx040-soc
+	url = ../atx040-soc.git
+[submodule "atx040-main-pcb"]
+	path = atx040-main-pcb
+	url = ../atx040-main-pcb.git
+[submodule "atx030-u-boot"]
+	path = atx040-u-boot
+	url = ../atx030-u-boot.git
+[submodule "atx040-linux"]
+	path = atx040-linux
+	url = ../atx030-linux.git
+[submodule "atx030-psu-fw"]
+	path = atx030-psu-fw
+	url = ../atx030-psu-fw.git
